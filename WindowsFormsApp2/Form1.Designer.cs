@@ -28,7 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.pbCanvas = new System.Windows.Forms.PictureBox();
+            this.GameTimer = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pbCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -42,6 +44,10 @@
             this.pbCanvas.TabIndex = 0;
             this.pbCanvas.TabStop = false;
             this.pbCanvas.Paint += new System.Windows.Forms.PaintEventHandler(this.pbCanvas_Print);
+            // 
+            // GameTimer
+            // 
+            this.GameTimer.Tick += new System.EventHandler(this.Update);
             // 
             // Form1
             // 
@@ -62,6 +68,7 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pbCanvas;
+        private System.Windows.Forms.Timer GameTimer;
     }
 }
 

@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\2048_the_game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\2048_the_game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\2048_the_game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\USER\Desktop\2048_C#\2048-on-C-\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

@@ -21,7 +21,13 @@ namespace WindowsFormsApp2
         {
             if (keys[key] == null)
                 return false;
-            return (bool)keys[key];
+            if ((bool)keys[key])
+            {
+                keys[key] = false;
+                return true;
+            }
+            else
+                return false;
         }
     }
 }
